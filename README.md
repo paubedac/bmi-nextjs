@@ -3,7 +3,7 @@
 This is a simple BMI Calculator that uses:
 [Next.js](https://nextjs.org)
 [Vitest](https://vitest.dev/) 
-[TailwindCSS] (https://tailwindcss.com/)
+[TailwindCSS](https://tailwindcss.com/)
 
 ## Getting Started
 
